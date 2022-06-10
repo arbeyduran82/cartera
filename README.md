@@ -10,5 +10,5 @@
 * Credits
 * Reports
 * Settings
-## Mor Information
-[**Mor information in we web site**](https://giohosting.com "Mor information").
+## More Information
+[**More information in our website**](https://giohosting.com "Mor information").
