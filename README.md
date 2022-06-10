@@ -1,4 +1,4 @@
-# Project "Cartera" (Portefolio).
+# Project "Cartera" (Portfolio).
 [User Manual](https://giohosting.com "User Manual \br")
 "Cartera" (Portfolio) is an incredible software focused on a company selling products on credit.
 > It's purpose is for general use, it is developed with JAVA and MYSQL
