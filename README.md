@@ -11,4 +11,5 @@
 * Reports
 * Settings
 ## More Information
-[**More information in our website**](https://giohosting.com "Mor information").
+> Find more information on our website
+[**www.giohosting.com**](https://giohosting.com "Mor information").
